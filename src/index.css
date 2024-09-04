@@ -1,0 +1,11 @@
+:root {
+  --White: #ffffff;
+  --Black: #000000;
+  --Gray: #333333;
+  --OffWhite: #cccccc;
+  --Red: #fb2222;
+}
+
+a {
+  text-decoration: none;
+}
